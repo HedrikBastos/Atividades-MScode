@@ -4,7 +4,7 @@ Listas de Atividades passadas no decorrer do curso.
 # Atividades
 * [25/07](#25/07)
 
-* # 25/07
+ # 25/07
 * 1º Criar uma função que retorne "true" se uma string contiver espaços.
 * 2º Criar uma função  que retorne o produto de todos os inteiros ímpares em uma lista. A função aceita uma lista como um
 argumento.
