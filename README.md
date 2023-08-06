@@ -14,4 +14,4 @@ argumento.
 segundo maior número. A função aceita uma lista como um
 argumento.
 * 5º Criar consulta de SQL que resultará com as colunas id, titulo, pagamento e valor na tabela "produtos". A coluna pagamento é referente a data.
-  Para esse exercicio foi criada uma pasta com os seguintes arquivos: Mysqli.php para conexão com o banco de dados, Config.php para separar dados sensiveis, ConsultaProdutos.php para realizar a consulta dos produtos no banco de dados. e um index.php para iniciar e mostrar consulta.
+  Para essa atividade foi criada uma pasta com os seguintes arquivos: Mysqli.php para conexão com o banco de dados, Config.php para separar dados sensiveis, ConsultaProdutos.php para realizar a consulta dos produtos no banco de dados e um index.php para iniciar e mostrar a consulta.
