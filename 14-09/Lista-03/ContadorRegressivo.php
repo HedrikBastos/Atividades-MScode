@@ -24,7 +24,6 @@ var_dump($dataJson);
     </div>
 
     <div id="datajson" data-php="<?php echo $dataJson; ?>"></div>
-    <div id="teste"></div>
 
     <script src="script.js" defer></script>
 </body>
