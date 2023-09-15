@@ -1,0 +1,55 @@
+#contador {
+    font-size: 36px;
+    text-align: center;
+}
+
+.contador-item {
+    font-size: 24px;
+    display: inline-flex;
+    margin-right: 20px;
+}
+
+.box-data-promo {
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.452);
+    max-width: 500px;
+    width: 95%;
+    padding: 50px 2%;
+    background: white;
+    margin: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.box-data-promo h2 {
+    text-align: center;
+    font-size: 17px;
+    text-transform: uppercase;
+    margin: 10px 0;
+    color: black;
+}
+
+.inputs {
+    width: 40%;
+    height: 30px;
+    border-radius: 1px solid #ccc;
+    padding-left: 8px;
+    margin-top: 8px;
+    margin-left: 30%;
+}
+
+input[type=submit] {
+    width: 100px;
+    height: 30px;
+    cursor: pointer;
+    margin-top: 10px;
+    font-size: 16px;
+    background: #2176FF;
+    color: white;
+    border: 0;
+}
+
+.centralizar {
+    margin-left: 40%;
+}
