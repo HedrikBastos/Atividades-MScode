@@ -10,11 +10,3 @@ class ConsultaPedido
         return mysqli_fetch_all($resultado, MYSQLI_ASSOC);
     }
 }
-
-$teste = new ConsultaPedido;
-
-$pedido = $teste->ConsultaPedido();
-
-foreach ($pedido as $pedido) {
-    echo "ID: " . $pedido['id_pedido'] . " | Data da compra: " . $pedido['data'] . " | Valor: " . $pedido['valor'] .  " | Status: " . $pedido['status'] . "<br>";
-}
