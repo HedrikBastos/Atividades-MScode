@@ -11,10 +11,4 @@ class RetornaFuncionarioCargo
     }
 }
 
-$teste = new RetornaFuncionarioCargo;
 
-$cargaFuncionario = $teste->retornaCargo();
-
-foreach ($cargaFuncionario as $cargaFuncionario) {
-    echo "Nome: " . $cargaFuncionario['nome'] . " | Cargo: " . $cargaFuncionario['cargo'] . "<br>";
-}
