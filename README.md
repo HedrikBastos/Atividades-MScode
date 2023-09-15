@@ -2,7 +2,10 @@
 Listas de Atividades passadas no decorrer do curso.
 
 # Atividades
+* [14/09](#1409)
 * [25/07](#2507)
+
+ # 14/09
 
  # 25/07
 * 1º Criar uma função que retorne "true" se uma string contiver espaços.
