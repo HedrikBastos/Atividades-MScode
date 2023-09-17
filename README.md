@@ -10,7 +10,7 @@ Listas de Atividades passadas no decorrer do curso.
     **Consulta Idade**: Dada a tabela "clientes" com os campos "id_cliente", "nome" e
     "idade", escreva uma consulta para selecionar todos os clientes
     com idade acima de 30 anos.
-
+ <br>
    **Consulta  Pedido**: Dada a tabela "pedidos" com os campos "id_pedido", "data",
    "valor" e "status", escreva uma consulta para selecionar todos os
    pedidos que tenham sido realizados em 2023.
