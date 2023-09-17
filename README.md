@@ -7,20 +7,20 @@ Listas de Atividades passadas no decorrer do curso.
 
  # 14/09
  * Lista-01
- * 
-    **Consulta Idade**: Dada a tabela "clientes" com os campos "id_cliente", "nome" e
+   
+ - **Consulta Idade**: Dada a tabela "clientes" com os campos "id_cliente", "nome" e
     "idade", escreva uma consulta para selecionar todos os clientes
     com idade acima de 30 anos.
 
-   **Consulta  Pedido**: Dada a tabela "pedidos" com os campos "id_pedido", "data",
+ - **Consulta  Pedido**: Dada a tabela "pedidos" com os campos "id_pedido", "data",
    "valor" e "status", escreva uma consulta para selecionar todos os
    pedidos que tenham sido realizados em 2023.
 
-  **Produo Igual ou Inferior**: Dada a tabela "produtos" com os campos "id_produto", "nome"
+ - **Produo Igual ou Inferior**: Dada a tabela "produtos" com os campos "id_produto", "nome"
   e "preco", escreva uma consulta para selecionar todos os produtos
   cujo preço seja igual ou inferior a 50.
 
-  **Retorna Funcionário**: Dada a tabela "funcionarios" com os campos "id_funcionario",
+ - **Retorna Funcionário**: Dada a tabela "funcionarios" com os campos "id_funcionario",
 "nome" e "cargo", escreva uma consulta para selecionar todos os
 funcionários que tenham o cargo de "Gerente".
 
