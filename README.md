@@ -7,6 +7,7 @@ Listas de Atividades passadas no decorrer do curso.
 
  # 14/09
  * Lista-01
+ <br>
     **Consulta Idade**: Dada a tabela "clientes" com os campos "id_cliente", "nome" e
     "idade", escreva uma consulta para selecionar todos os clientes
     com idade acima de 30 anos.
