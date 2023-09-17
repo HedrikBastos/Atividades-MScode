@@ -6,7 +6,7 @@ Listas de Atividades passadas no decorrer do curso.
 * [25/07](#2507)
 
  # 14/09
- * <h1>Lista-01 </h1>
+ * <h2>Lista-01 </h2>
    
  - **Consulta Idade**: Dada a tabela "clientes" com os campos "id_cliente", "nome" e
     "idade", escreva uma consulta para selecionar todos os clientes
