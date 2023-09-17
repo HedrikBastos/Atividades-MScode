@@ -7,6 +7,10 @@ Listas de Atividades passadas no decorrer do curso.
 
  # 14/09
   <h3>Lista-01 </h3>
+
+ * **Login**: Criaremos um sistema de login e
+    cadastro básico para autenticar os usuários, para permitir que os
+    usuários se inscrevam em um site. (incluindo HTML + CSS + PHP).
    
  * **Consulta Idade**: Dada a tabela "clientes" com os campos "id_cliente", "nome" e
     "idade", escreva uma consulta para selecionar todos os clientes
