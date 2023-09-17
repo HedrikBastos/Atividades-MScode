@@ -25,6 +25,7 @@ Listas de Atividades passadas no decorrer do curso.
     funcionários que tenham o cargo de "Gerente".
 
   <h3>Lista-02 </h3>
+  
  * **Blog**: Neste projeto, criaremos um blog em que teremos uma
     pagina Titulo + artigo, onde as pessoas podem comentar em baixo da
     pagina. (incluindo HTML + CSS + PHP).
@@ -42,6 +43,7 @@ Listas de Atividades passadas no decorrer do curso.
    letra de cada nome seja maiúscula e o restante minúscula.
 
   <h3>Lista-03 </h3>
+  
 * **Contador Regressivo**: Neste projeto Crie uma pagina que faça uma contagem
    regressiva a partir de uma data no futuro fornecida pelo usuário.
    (incluindo HTML + CSS + PHP + JavaScript).
